@@ -1,0 +1,1 @@
+30-line worksheet, full update (change + render), median of 15: 6.0 ms
